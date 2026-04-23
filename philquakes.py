@@ -12,7 +12,7 @@ html = response.text
 
 soup = BeautifulSoup(html, 'html.parser')
 
-print("url,date - time,(philippine time),latitude,(ºn),longitude,(ºe),depth,(km),mag,location")
+print("url,datetime,lat,long,depth,mag,location")
 
 for table in soup.select('.MsoNormalTable')[2:3]:
     for row in table.select('tr'):
