@@ -27,7 +27,7 @@ https://earthquake.phivolcs.dost.gov.ph/2026_Earthquake_Information\April\2026_0
 https://earthquake.phivolcs.dost.gov.ph/2026_Earthquake_Information\April\2026_0423_1303_B1.jpg,23 April 2026 - 09:03 PM,07.58,124.46,005,2.3,012,km N 53° E of Buldon (Maguindanao Del Norte)
 ```
 
-## Headers
+## Fields
 
 - url - url of event map where earthquake occurred (.jpg format)
 - datetime - date and time of the event (Philippine Time)
