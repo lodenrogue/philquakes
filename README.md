@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-$ python philquakes.py
+$ python3 philquakes.py
 ```
 
 ## Example Results
